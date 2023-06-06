@@ -1,0 +1,30 @@
+body {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+  color: #fff;
+  background-color: #000;
+}
+
+h2 {
+  color: #fff;
+  background-color: #663399;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  color: #000;
+  background-color: #6495ed;
+  text-align: right;
+  text-decoration: underline;
+}
+
+h1, h2, p {
+  padding: 5px 10px;
+}
+
+.cyan {
+  color: #00ffff;
+}
