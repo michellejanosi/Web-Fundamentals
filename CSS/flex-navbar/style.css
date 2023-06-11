@@ -1,0 +1,44 @@
+body {
+  font-family: monospace;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+li {
+  font-size: 1.1rem;
+  padding: 0 10px;
+}
+
+.nav,
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  background-color: #333333;
+  padding: 10px 20px;
+}
+
+.nav-title {
+  color: #fff;
+  font-size: 2.25rem;
+}
+
+.nav-links {
+  align-items: center;
+  list-style: none;
+}
+
+.btn {
+  background-color: #18A2B8;
+  border: 3px solid #000;
+  box-shadow: 3px 3px #000;
+  color: #fff;
+  font-family: monospace;
+  font-size: 1.1rem;
+  padding: 5px 20px;
+}
