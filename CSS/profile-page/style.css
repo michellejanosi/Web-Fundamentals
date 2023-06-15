@@ -81,8 +81,7 @@ ul {
 
 /* Profile Card */
 .left-column {
-  max-width: 580px;
-  width: 100%;
+  flex: 2;
 }
 
 .left-column {
@@ -162,9 +161,8 @@ ul {
 
 /* Connections Sidebar */
 .connections {
-  max-width: 380px;
+  flex: 1;
   margin-left: 20px;
-  width: 100%;
 }
 
 .connection-requests {
